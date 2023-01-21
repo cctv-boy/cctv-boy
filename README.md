@@ -10,9 +10,6 @@ Highly skilled backend developer with a passion for Go
 *   ✉️  You can contact me at [sazonovalex73@gmail.com](mailto:sazonovalex73@gmail.com)
 *   🧠  I'm learning golang
 *   ⚡  Open to cooperation and work on interesting projects
-<a href="https://www.twitter.com/cctvboyreal" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/cctvboyreal?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1e3a8a"
-                /></a>
 
 ### Skills 
 <p align="left">
@@ -27,9 +24,9 @@ Highly skilled backend developer with a passion for Go
 </p>
                     
 
-                  ### Socials
+                
                   
-                  <p align="left"> <a href="https://www.github.com/cctv-boy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cctvboyreal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+   <p align="left"> <a href="https://www.github.com/cctv-boy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cctvboyreal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
